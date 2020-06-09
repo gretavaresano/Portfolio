@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'Lausanne';
-        src: url(fonts/Lausanne-Regular.otf);
+        src: url("fonts/Lausanne-Regular.otf") format("opentype");
 }
 
 @font-face {
     font-family: 'Practice';
-    src: url(fonts/Practice-Regular.otf);
+    src: url("fonts/Practice-Regular.otf") format("opentype");
 }
 
 
