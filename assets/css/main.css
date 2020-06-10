@@ -8,6 +8,11 @@
     src: url("fonts/Practice-Regular.otf") format("opentype");
 }
 
+@font-face {
+    font-family: 'Canela';
+    src: url("fonts/Canela-Regular.otf") format("opentype");
+}
+
 
 
 
@@ -16,6 +21,9 @@
 }
 
 
+.nobr {
+  white-space: nowrap;
+}
 
 
 ::-webkit-scrollbar {
@@ -141,7 +149,7 @@ ul {
 }
 
 .title--greta {
-    font-family: 'Practice';
+  font-family: 'Canela';
     width: 100%;
     height: auto;
     display: block;
