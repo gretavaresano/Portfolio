@@ -670,19 +670,6 @@ video {
         transform: translate(calc(50vw - 50%), calc(50vh - 50%));
     }
 
-    .title--riccer2 {
-        width: 40vw;
-        height: 40px;
-        transform: translate(calc(50vw - 50%), calc(50vh - 50%));
-
-    }
-
-    .title--riccer3 {
-        width: 40vw;
-        height: 40px;
-        transform: translate(calc(50vw - 50%), calc(50vh - 50%));
-    }
-
 
 
     /*INFO*/
