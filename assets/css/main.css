@@ -359,7 +359,7 @@ video {
     height: 2px;
     width: 100%;
     bottom: 50%;
-    background: white;
+    background: black;
     transform: translate(0, 50%);
 }
 
